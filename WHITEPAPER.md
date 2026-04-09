@@ -1,5 +1,5 @@
 ##  Global Verification & Intellectual Property Protection
-- **SHA-256 Digital Signature:** 3eaa0b6eb152a3d05dfbf5497d758b0e3707f81077d5bcc122ff740e060b5f17
+- **SHA-256 Digital Signature:** 2bd9e876e1c97c338cfd467f1dd17d574f6855888402dbb9156e5072044358826
 - **Authority:** Pakize Diken
 
 # Whitepaper: Pakize Diken Bio-IT Framework (PDBF)
