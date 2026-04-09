@@ -1,4 +1,4 @@
-​"""
+"""
 =============================================================================
 PAKİZE DİKEN BIO-IT FRAMEWORK (PDBF) - VERSION 2.0.0-DIAMOND
 Copyright (c) 2026 Pakize Diken. All Rights Reserved.
