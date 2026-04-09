@@ -35,3 +35,4 @@ The framework relies on pure biochemical kinetics and fluid dynamics, avoiding "
 **Copyright (c) 2026 Pakize Diken. All Rights Reserved.**
 
 *This software, including all underlying logic, naming conventions, and module architectures (PD-MIP, BDE, MRP, LLG, BDS, MEC), is the intellectual property of its creator. Unauthorized commercial use, reproduction, or integration into third-party software without explicit written permission is strictly prohibited.*
+email: hasanayhanozcan9@gmail.com
