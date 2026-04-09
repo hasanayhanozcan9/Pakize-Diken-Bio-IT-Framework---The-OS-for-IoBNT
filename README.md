@@ -1,3 +1,7 @@
+# Pakize Diken Bio-IT Framework (PDBF) 🧬
+> **[📄 Read the Official Whitepaper](WHITEPAPER.md)** | **[💻 View Core Source Code](main.py)**
+> 
+
 # Pakize-Diken-Bio-IT-Framework---The-OS-for-IoBNT
 
 
