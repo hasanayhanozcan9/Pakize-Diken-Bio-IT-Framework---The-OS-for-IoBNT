@@ -1,3 +1,7 @@
+##  Global Verification & Intellectual Property Protection
+- **SHA-256 Digital Signature:** 3eaa0b6eb152a3d05dfbf5497d758b0e3707f81077d5bcc122ff740e060b5f17
+- **Authority:** Pakize Diken
+
 # Whitepaper: Pakize Diken Bio-IT Framework (PDBF)
 **Standardizing Molecular Communication for the Internet of Bio-Nano Things (IoBNT)**
 
